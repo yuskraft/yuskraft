@@ -1,5 +1,3 @@
-## Your friendly neighborhood engineer.
-
 <div>
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" width="30" height="30"/>
